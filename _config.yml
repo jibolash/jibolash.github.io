@@ -1,25 +1,25 @@
 # Your name and what you do
-name: Eve Adam
+name: Mayowa Sogbein
 bio: Software Developer
 
-description: Eve Adam's Personal Website
+description: Jibola Sogbein's Personal Website
 
 # Profile picture
 picture: assets/images/profile.jpg
 
 # your url: http://USERNAME.github.io
-url: https://jibolash.github.io/Eve/
+url: https://jibolash.github.io/
 
 # do you need want social media links? true or false
 social-media: true
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
-twitter: mytwitter
-linkedin: mylinkedin
-github: mygithub
-email: myemail@gmail.com
+twitter: jibolash
+linkedin: mayowa-sogbein
+github: jibolash
+email: mayowa.sogbein@gmail.com
 # google: mygoogle
-# instagram: myinstagram
+instagram: jibolash
 # pinterest: mypinterest
 # youtube: myyoutube
 # spotify: myspotify
@@ -44,14 +44,15 @@ skills: true
 
 # add your skills here
 skills-list:
-    - HTML, Jade
-    - CSS (Stylus, Sass, Less)
-    - Javascript, NodeJS
-    - AngularJS, ReactJS
-    - Java, Android
-    - Python
-    - MySQL - MongoDB    
-    - Git    
+    - Java, Python, JavaScript
+    - HTML, CSS, jQuery, Ajax
+    - JSP/Servlet, Flask, Express.js
+    - Angular, React
+    - Spring/JSF, Android
+    - MySQL, PostgreSQL, SQLite, MongoDB
+    - Eclipse, IntelliJ IDEA, Android Studio, Sublime Text, Git, Docker, Jenkins 
+    - Agile, Waterfall
+    - Tomcat, GlassFish, WildFly
 
 # do you need a projects section? true or false
 projects: true
