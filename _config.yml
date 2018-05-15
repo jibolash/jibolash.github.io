@@ -1,0 +1,80 @@
+# Your name and what you do
+name: Eve Adam
+bio: Software Developer
+
+description: Eve Adam's Personal Website
+
+# Profile picture
+picture: assets/images/profile.jpg
+
+# your url: http://USERNAME.github.io
+url: https://jibolash.github.io/Eve/
+
+# do you need want social media links? true or false
+social-media: true
+# if you don't have any of social below, comment the line
+# facebook: myfacebook
+twitter: mytwitter
+linkedin: mylinkedin
+github: mygithub
+email: myemail@gmail.com
+# google: mygoogle
+# instagram: myinstagram
+# pinterest: mypinterest
+# youtube: myyoutube
+# spotify: myspotify
+# lastfm: mylastfm
+# stackoverflow: 7044681/mystackoverflow
+# quora: userquora
+# reddit: username
+# medium: medium
+# vimeo: myvimeo
+# lanyrd: mylanyrd
+
+# do you want a larger site? change the option below
+# options: [normal, large] | default: normal
+# normal = 560px / large = 810px
+width: normal
+
+# do you need an about section? true or false
+about: true
+
+# do you need a skills section? true or false
+skills: true
+
+# add your skills here
+skills-list:
+    - HTML, Jade
+    - CSS (Stylus, Sass, Less)
+    - Javascript, NodeJS
+    - AngularJS, ReactJS
+    - Java, Android
+    - Python
+    - MySQL - MongoDB    
+    - Git    
+
+# do you need a projects section? true or false
+projects: true
+
+# add your projects here
+project-list:
+    Transcend:
+        name: Transcend
+        description: An android app for meditation 
+        url: https://github.com/Khosbayar/Transcend
+    World-Cup-History:
+        name: World Cup  History
+        description: npm package for FIFA World cup historical data
+        url: https://github.com/jibolash/world-cup-history
+
+
+# do you need want to display the theme attribution? true or false
+footer: true
+
+# Enable animations? true or false
+animation: true
+
+gems:
+  - jekyll-seo-tag
+
+exclude: [README.md, Gemfile, Gemfile.lock, _site, Rakefile, travis.sh, vendor]
