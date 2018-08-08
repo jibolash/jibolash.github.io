@@ -24,8 +24,8 @@ instagram: jibolash
 # youtube: myyoutube
 # spotify: myspotify
 # lastfm: mylastfm
-# stackoverflow: 7044681/mystackoverflow
-# quora: userquora
+# stackoverflow: 3476688/jibola
+# quora: Jibola-Sogbein
 # reddit: username
 # medium: medium
 # vimeo: myvimeo
@@ -37,10 +37,10 @@ instagram: jibolash
 width: normal
 
 # do you need an about section? true or false
-about: true
+about: false
 
 # do you need a skills section? true or false
-skills: true
+skills: false
 
 # add your skills here
 skills-list:
