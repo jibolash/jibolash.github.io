@@ -61,7 +61,7 @@ projects: true
 project-list:
     QuizKnit:
         name: QuizKnit
-        description: AI powered web application that generates a quiz based on user provided text.
+        description: AI powered web application that generates a quiz based on user provided text. Users can also share the quiz with other people using a custom url.
         url: https://quizknit.com
     Eve:
         name: Eve
