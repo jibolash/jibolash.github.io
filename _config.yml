@@ -63,6 +63,10 @@ project-list:
         name: QuizKnit
         description: AI powered web application that generates a quiz based on user provided text. Users can share the quiz using a custom url and also test their knowledge by exploring quizzes created by other people.
         url: https://quizknit.com
+    Moodvie:
+        name: Moodvie
+        description: Movie recommendaion application.
+        url: https://moodvie.app
     Eve:
         name: Eve
         description: Ultra Minimal Single-page Jekyll Template for Building Personal Portfolio Websites. Currently has 50+ Github stars. This website is built with it!
