@@ -65,7 +65,7 @@ project-list:
         url: https://quizknit.com
     Moodvie:
         name: Moodvie
-        description: Movie recommendaion application.
+        description: Movie recommendation application.
         url: https://moodvie.app
     Eve:
         name: Eve
